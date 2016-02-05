@@ -19,7 +19,7 @@
         background:red;
     }
     .main-content{
-        background: url("../img/bg-photo.jpg") no-repeat top center;
+        background: url('../img/bg-photo.jpg') no-repeat top center;
         background-size: cover;
     }
 
