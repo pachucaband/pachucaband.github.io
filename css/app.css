@@ -1,0 +1,45 @@
+.header {
+  text-align: center;
+  /*background: #29ffd8 no-repeat center center;
+  background-size: cover;*/
+  padding: 2rem 4rem; }
+  .header .main-header {
+    color: #666; }
+
+
+
+.container{
+    width:100%;
+    min-width:560px;
+    max-width:960px;
+    padding: 0 10px;
+    margin:0 auto;
+}
+    .nav-content{
+        background:red;
+    }
+    .main-content{
+        background: url("../img/bg-photo.jpg") no-repeat top center;
+        background-size: cover;
+    }
+
+.main-menu
+{
+    font-size:1.25em;
+    font-weight:700;
+    text-transform:uppercase;
+}
+.menu{
+    background:#000;
+}
+.menu li{
+    display:inline-block;
+}
+.menu li a{
+    color:#fff;
+}
+
+.social-url{
+    color:#000;
+    font-size: 3em;
+}
